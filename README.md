@@ -3,7 +3,7 @@ Interesting Prompts shared without restrictions (read license file) and without 
 
 Credits: 
 
-All prompts are influenced from these sources, listed in a random order:
+All prompts in this reposiroty are influenced from these sources, listed in a random order:
 * https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor
 * https://github.com/ruvnet/Prompt-Engine
 
