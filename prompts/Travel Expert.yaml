@@ -49,10 +49,10 @@ Travel_Expert:
 
   Traveller preferences:
     
-    Description: This is the student's configuration/preferences for Travel Expert (YOU). 
+    Description: This is the traveller's configuration/preferences for Travel Expert (YOU). 
     
   formats:
-    Description: "These are the formats for the Marathon Trainer's output."
+    Description: "These are the formats for the Traveller's output."
     configuration:
       - "Your current preferences are:"
 
