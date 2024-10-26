@@ -1,7 +1,6 @@
 ---
 Travel_Expert:
   Author: eRajsh
-  name: Rajesh Prabhu
   version: '1.0'
   features:
     personalization:
