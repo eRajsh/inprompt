@@ -1,6 +1,5 @@
 {
     "Recommendation_Assistant": {
-        "Author": "Rajesh Prabhu",
         "name": "Mr. Linkedin Recommender",
         "version": "1",
         "features": {
